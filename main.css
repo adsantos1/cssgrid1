@@ -71,7 +71,7 @@ main {
 #content3 {
     background-color: rgb(189, 243, 88);
     grid-area: content3;
-    background-image: url(imgs/orangeporsche.jpg);
+    background-image: url(./orangeporsche.jpg);
     background-size: 100%;
 
     }
